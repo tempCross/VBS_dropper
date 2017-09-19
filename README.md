@@ -1,2 +1,2 @@
 # VBS_dropper
-# drops executable on machine using vbs 
+drops executable on machine using vbs 
